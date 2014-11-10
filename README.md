@@ -17,7 +17,7 @@ Please review the [integration instructions](http://wiki.adrally.com/index.php/A
 
 * [Integration Instructions](http://wiki.adrally.com/index.php/Android)
 * [Inline Code Reference](http://fusepowered.github.io/FuseSDKAndroid/)
-* [Fuse SDK Class Reference](http://fusepowered.github.io/FuseSDKAndroid/docs/classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html)
+* [Fuse SDK Class Reference](http://fusepowered.github.io/FuseSDKAndroid/Docs/classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html)
 
 ## Need an Account?
 Please visit [http://www.adrally.com](http://www.adrally.com) for an account to get started!
