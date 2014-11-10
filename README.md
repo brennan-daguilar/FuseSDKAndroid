@@ -4,7 +4,7 @@
 
 Version: 1.37.0
 
-Released: November 7th, 2014
+Released: November 10th, 2014
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -25,7 +25,7 @@ Please visit [http://www.adrally.com](http://www.adrally.com) for an account to 
 ## Release Notes
 
 ### 1.37.0
-November 7th, 2014
+November 10th, 2014
 * 3rd party plugin architecture for mediated networks
 * Additional V4VC callbacks
 * Bug fixes
