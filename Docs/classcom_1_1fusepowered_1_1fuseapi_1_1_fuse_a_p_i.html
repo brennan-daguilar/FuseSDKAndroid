@@ -113,9 +113,9 @@ $(document).ready(function(){initNavTree('classcom_1_1fusepowered_1_1fuseapi_1_1
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a98493239387554f061ad10a302b9570d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a98493239387554f061ad10a302b9570d">startSession</a> (final String gameId, Activity activity, Context ctx, <a class="el" href="classcom_1_1fusepowered_1_1util_1_1_fuse_callback.html">FuseCallback</a> callback)</td></tr>
-<tr class="memdesc:a98493239387554f061ad10a302b9570d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initiate communication with the Fuse system (and register a FuseCallback)  <a href="#a98493239387554f061ad10a302b9570d">More...</a><br /></td></tr>
-<tr class="separator:a98493239387554f061ad10a302b9570d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada5f1aa8f1495beb07f4f4e1a1e29f9f"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ada5f1aa8f1495beb07f4f4e1a1e29f9f">startSession</a> (final String gameId, final Activity activity, Context ctx, <a class="el" href="classcom_1_1fusepowered_1_1util_1_1_fuse_callback.html">FuseCallback</a> callback)</td></tr>
+<tr class="memdesc:ada5f1aa8f1495beb07f4f4e1a1e29f9f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initiate communication with the Fuse system (and register a FuseCallback)  <a href="#ada5f1aa8f1495beb07f4f4e1a1e29f9f">More...</a><br /></td></tr>
+<tr class="separator:ada5f1aa8f1495beb07f4f4e1a1e29f9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb93d7fe3db4d4825ddc5e7575bf70c1"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#acb93d7fe3db4d4825ddc5e7575bf70c1">setupGCM</a> (String GCM_Project_Number, String gcm_Intent, Activity activity, int smallIconID, int largeIconID)</td></tr>
 <tr class="memdesc:acb93d7fe3db4d4825ddc5e7575bf70c1"><td class="mdescLeft">&#160;</td><td class="mdescRight">This function is used to Setup Google Cloud Messaging service for this app.  <a href="#acb93d7fe3db4d4825ddc5e7575bf70c1">More...</a><br /></td></tr>
 <tr class="separator:acb93d7fe3db4d4825ddc5e7575bf70c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -3443,7 +3443,7 @@ FuseGameDataError for all possible game data error values </dd></dl>
 <div class="line">{</div>
 <div class="line">...</div>
 <div class="line">&lt;p/&gt;</div>
-<div class="line">FuseAPI.<a class="code" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a98493239387554f061ad10a302b9570d">startSession</a>(<span class="stringliteral">&quot;YOUR API KEY&quot;</span>, null, appContext, startSessionCallback);</div>
+<div class="line">FuseAPI.<a class="code" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ada5f1aa8f1495beb07f4f4e1a1e29f9f">startSession</a>(<span class="stringliteral">&quot;YOUR API KEY&quot;</span>, null, appContext, startSessionCallback);</div>
 <div class="line">&lt;p/&gt;</div>
 <div class="line"><span class="comment">//The simplest intent returns the user to the main entry point of the app when a notification is received.  Not recommended, but it&#39;s simple.</span></div>
 <div class="line">Intent GCMIntent = <span class="keyword">new</span> Intent (getApplicationContext(), MainActivity.class);</div>
@@ -3454,7 +3454,7 @@ FuseGameDataError for all possible game data error values </dd></dl>
 </div><!-- fragment --> 
 </div>
 </div>
-<a class="anchor" id="a98493239387554f061ad10a302b9570d"></a>
+<a class="anchor" id="ada5f1aa8f1495beb07f4f4e1a1e29f9f"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -3470,7 +3470,7 @@ FuseGameDataError for all possible game data error values </dd></dl>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Activity&#160;</td>
+          <td class="paramtype">final Activity&#160;</td>
           <td class="paramname"><em>activity</em>, </td>
         </tr>
         <tr>
@@ -3529,7 +3529,7 @@ FuseGameDataError for all possible game data error values </dd></dl>
 <div class="line">    }</div>
 <div class="line">  };</div>
 <div class="line"></div>
-<div class="line">  FuseAPI.<a class="code" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a98493239387554f061ad10a302b9570d">startSession</a>(<span class="stringliteral">&quot;YOUR API KEY&quot;</span>, null, appContext, startSessionCallback);</div>
+<div class="line">  FuseAPI.<a class="code" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ada5f1aa8f1495beb07f4f4e1a1e29f9f">startSession</a>(<span class="stringliteral">&quot;YOUR API KEY&quot;</span>, null, appContext, startSessionCallback);</div>
 <div class="line">  ...</div>
 <div class="line">}</div>
 </div><!-- fragment --><p> When a session has been established by Fuse system, a callback will be sent to the registered FuseCallback object using the following function: </p><div class="fragment"><div class="line"><span class="keyword">public</span> <span class="keyword">abstract</span> <span class="keywordtype">void</span> sessionStartReceived();</div>
@@ -3855,7 +3855,7 @@ FuseCallback::friendsListError: for more information of the callback function </
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><b>com</b></li><li class="navelem"><b>fusepowered</b></li><li class="navelem"><b>fuseapi</b></li><li class="navelem"><a class="el" href="classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html">FuseAPI</a></li>
-    <li class="footer">Generated on Tue Jan 13 2015 16:19:15 for FuseAPI (Android) by
+    <li class="footer">Generated on Fri Feb 6 2015 16:15:02 for FuseAPI (Android) by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
