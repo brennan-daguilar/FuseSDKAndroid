@@ -1,14 +1,13 @@
 var NAVTREE =
 [
-  [ "FuseAPI (Android)", "index.html", [
-    [ "Deprecated List", "deprecated.html", null ],
+  [ "FuseSDK (Android)", "index.html", [
     [ "Classes", null, [
       [ "Class List", "annotated.html", "annotated" ],
       [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ]
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ]
   ] ]

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['libraryversion',['libraryVersion',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a4929f559eb29d81bbd924a4d6b4fa6de',1,'com::fusepowered::fuseapi::FuseAPI']]]
+  ['libraryversion',['libraryVersion',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a53881e21b44f65324a9c64bc2f463e37',1,'com::fusepowered::FuseSDK']]]
 ];

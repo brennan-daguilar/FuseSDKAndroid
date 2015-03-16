@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['libraryversion',['libraryVersion',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a4929f559eb29d81bbd924a4d6b4fa6de',1,'com::fusepowered::fuseapi::FuseAPI']]]
+  ['iapofferacceptedwithobject',['IAPOfferAcceptedWithObject',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a3f3ee21d170d55419435fc78488fe993',1,'com::fusepowered::FuseSDKListener']]],
+  ['invalid_5frequest',['INVALID_REQUEST',['../enumcom_1_1fusepowered_1_1_fuse_error.html#ae64e195b95cd99418dcb250f2feac81f',1,'com::fusepowered::FuseError']]],
+  ['isadavailableforzoneid',['isAdAvailableForZoneID',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab27b5b1bdb71446ec448b44ef6093864',1,'com::fusepowered::FuseSDK']]],
+  ['isnotificationavailable',['isNotificationAvailable',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a04a67ac0e66eef2ca339ee89bcccd99b',1,'com::fusepowered::FuseSDK']]]
 ];

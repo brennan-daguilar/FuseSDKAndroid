@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['deleteuserchatmessage',['deleteUserChatMessage',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ac92dfccb621323aad0a4c92954767343',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['devicelogin',['deviceLogin',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#abb9e26aa2c65bc4ff2b5ed2e53266532',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['displaymoregames',['displayMoreGames',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ac8c25f9ffe0826706da2769b3898e690',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['displaynotifications',['displayNotifications',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ac1f2c70f8c3883bf06f0a87733928f74',1,'com::fusepowered::fuseapi::FuseAPI']]]
+  ['dataenabled',['dataEnabled',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a06980f8f1bee0ebf22977d40201f2133',1,'com::fusepowered::FuseSDK']]],
+  ['devicelogin',['deviceLogin',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ac6d4e5658cfd36a415cc9088ab546f53',1,'com::fusepowered::FuseSDK']]],
+  ['disabledata',['disableData',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a1c2d86f8793ca1f77ed93d8e7c99cf16',1,'com::fusepowered::FuseSDK']]],
+  ['displaymoregames',['displayMoreGames',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a2ff349f3d77392175271b77f22201db6',1,'com::fusepowered::FuseSDK']]],
+  ['displaynotifications',['displayNotifications',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a8b4846a071f9562286f003c5606b830f',1,'com::fusepowered::FuseSDK']]]
 ];

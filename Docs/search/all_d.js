@@ -1,8 +1,11 @@
 var searchData=
 [
-  ['updatefriendslistfromserver',['updateFriendsListFromServer',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a921ebb463224e8036ca15446c39122e4',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['useroptout',['userOptOut',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a7473e39f2f1a4f658cac82acc4355520',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['userpushnotification',['userPushNotification',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a530a924e1e11e4cfb84bb4440fb9f104',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['usertransactionlog',['UserTransactionLog',['../classcom_1_1fusepowered_1_1util_1_1_user_transaction_log.html',1,'com::fusepowered::util']]],
-  ['utctimefromserver',['utcTimeFromServer',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a4ff8de5ccb984c682cfc9dbf7552bd27',1,'com::fusepowered::fuseapi::FuseAPI']]]
+  ['server_5ferror',['SERVER_ERROR',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a34b308ad8d56b343e32caaf1ed2a236b',1,'com::fusepowered::FuseError']]],
+  ['session_5ffailure',['SESSION_FAILURE',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a279f6484b3e7445929669d99286b2283',1,'com::fusepowered::FuseError']]],
+  ['sessionloginerror',['sessionLoginError',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#ac54e6434c1330649ca71ae3a4f882a32',1,'com::fusepowered::FuseSDKListener']]],
+  ['sessionstartreceived',['sessionStartReceived',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#ae207b28608f4f7e2f5841da328a6bc8a',1,'com::fusepowered::FuseSDKListener']]],
+  ['setlistener',['setListener',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a14707991fec84c0c16656c8eaf85b033',1,'com::fusepowered::FuseSDK']]],
+  ['setuppushnotifications',['setupPushNotifications',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a4f383225fe8000be184ad3604c3e7d71',1,'com::fusepowered::FuseSDK']]],
+  ['showadforzoneid',['showAdForZoneID',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a83a618950dfac1491806967fc5d3e2b9',1,'com::fusepowered::FuseSDK']]],
+  ['startsession',['startSession',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a767d2253b67394f50462ed4b64821444',1,'com::fusepowered::FuseSDK']]]
 ];

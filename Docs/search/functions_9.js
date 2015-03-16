@@ -1,16 +1,6 @@
 var searchData=
 [
-  ['registercrash',['registerCrash',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a8c53f4c07696ae2b450b19f9cada0c5e',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registercurrency',['registerCurrency',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#af4e5b2bd0bafea143ecb0775325dfe63',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registerevent',['registerEvent',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#af5a563760848a240d5b82d00a8e50364',1,'com.fusepowered.fuseapi.FuseAPI.registerEvent(final String event)'],['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a2c81cce5b68881768abae1e5f5ccbb1a',1,'com.fusepowered.fuseapi.FuseAPI.registerEvent(final String event, final HashMap&lt; String, String &gt; data)'],['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#aaf6572d24773d8b83dd03825f9d67206',1,'com.fusepowered.fuseapi.FuseAPI.registerEvent(String name, String param_name, String param_value, HashMap&lt; String, Number &gt; data)'],['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a652802c475d1b49c339e5612e80caf41',1,'com.fusepowered.fuseapi.FuseAPI.registerEvent(String name, String param_name, String param_value, String variable_name, Number variable_value)']]],
-  ['registerflurryclick',['registerFlurryClick',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ab60e56ac1a1402dc4cadbce28b4a65f5',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registerflurryview',['registerFlurryView',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a0d6110b82b7eb42159a2535aa54b1b4d',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registergender',['registerGender',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a3bc39a8f6be4770e456b2dc6f4c74ce8',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registerinapppurchase',['registerInAppPurchase',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a17cb1bcac6ac688dc4088c0fe3d14ebd',1,'com.fusepowered.fuseapi.FuseAPI.registerInAppPurchase(final VerifiedPurchase verifiedPurchase, FuseCallback cb)'],['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a0f0ed9c877f138857b7bd330865f28b5',1,'com.fusepowered.fuseapi.FuseAPI.registerInAppPurchase(final VerifiedPurchase verifiedPurchase, final double price, final String currency, FuseCallback cb)']]],
-  ['registerlevel',['registerLevel',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a8b89ae53c3e79178b8fe989e9207c3cc',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['registertapjoyreward',['registerTapjoyReward',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a896d52695b7e34ce6330061037b81025',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['rejectfriend',['rejectFriend',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a94ada95a6e025e723cfafd47f647fcf6',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['removefriend',['removeFriend',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a1afd0047a4e1f2fb3531cde6de139dd5',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['resumesession',['resumeSession',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a6ec74b5e8784530d508ad14a638311ab',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['rewardedvideocompleted',['rewardedVideoCompleted',['../classcom_1_1fusepowered_1_1util_1_1_fuse_ad_callback.html#ac0e7517a016ce5bfbbf1504334adad32',1,'com::fusepowered::util::FuseAdCallback']]]
+  ['pausesession',['pauseSession',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ae1a423abbb333d461350c13607f345a9',1,'com::fusepowered::FuseSDK']]],
+  ['preloadadforzoneid',['preloadAdForZoneID',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a87749c01f4a6206878c9d385b46a0995',1,'com::fusepowered::FuseSDK']]],
+  ['purchaseverification',['purchaseVerification',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a6c6e5405dc50efd14f9ec07eb1ef47b4',1,'com::fusepowered::FuseSDKListener']]]
 ];
