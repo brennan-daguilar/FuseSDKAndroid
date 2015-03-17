@@ -32,7 +32,7 @@ var classcom_1_1fusepowered_1_1_fuse_s_d_k =
     [ "registerAge", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab324914fa0941a7125807ecc56e65bd8", null ],
     [ "registerBirthday", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a095ac9afaf5123d82a242364c2acfa8e", null ],
     [ "registerCurrency", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#acc325d6c7a65926e3d5566828aede9ad", null ],
-    [ "registerGender", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab545f74fd2d7da4b2462d7d4dd2fe226", null ],
+    [ "registerGender", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a1d65a692c9702682f33033cf392b8196", null ],
     [ "registerInAppPurchase", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a998dfccdc5d284d068b0fb821a2f8b9d", null ],
     [ "registerInAppPurchase", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a62feedf13f55770982d99f587b05c867", null ],
     [ "registerLevel", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a0405e98dcb08167037f7cf1e2f85d34c", null ],

@@ -3,7 +3,6 @@ var searchData=
   ['gameconfigurationreceived',['gameConfigurationReceived',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#aeeac8636624da8b7ef3aebbe30be6b73',1,'com::fusepowered::FuseSDKListener']]],
   ['gamekeyvaluepairs',['GameKeyValuePairs',['../classcom_1_1fusepowered_1_1util_1_1_game_key_value_pairs.html',1,'com::fusepowered::util']]],
   ['gamesplayed',['gamesPlayed',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a0d6687d2009182aa58aa706b5ac26a54',1,'com::fusepowered::FuseSDK']]],
-  ['gender',['Gender',['../enumcom_1_1fusepowered_1_1_fuse_s_d_k_constants_1_1_gender.html',1,'com::fusepowered::FuseSDKConstants']]],
   ['getfriendslist',['getFriendsList',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ad0ddb43556b6cda8bda13ee5c64b00c8',1,'com::fusepowered::FuseSDK']]],
   ['getfuseid',['getFuseID',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a70757ca44588a889ce1f69507784ea61',1,'com::fusepowered::FuseSDK']]],
   ['getgameconfiguration',['getGameConfiguration',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab711fdd6009364672491fa4641670805',1,'com::fusepowered::FuseSDK']]],
