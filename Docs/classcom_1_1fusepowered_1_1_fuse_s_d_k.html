@@ -132,6 +132,9 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a4f383225fe8000be184ad3604c3e7d71"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a4f383225fe8000be184ad3604c3e7d71">setupPushNotifications</a> (String GCMProjectNumber, Intent intent, int smallIconId, int largeIconId)</td></tr>
 <tr class="memdesc:a4f383225fe8000be184ad3604c3e7d71"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set up the game to receive push notifications.  <a href="#a4f383225fe8000be184ad3604c3e7d71">More...</a><br /></td></tr>
 <tr class="separator:a4f383225fe8000be184ad3604c3e7d71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34862c7c1d21f979884dd90fef61898d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a34862c7c1d21f979884dd90fef61898d">setupPushNotifications</a> (Intent intent, int smallIconId, int largeIconId, String...GCMProjectNumbers)</td></tr>
+<tr class="memdesc:a34862c7c1d21f979884dd90fef61898d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set up the game to receive push notifications from multiple senders.  <a href="#a34862c7c1d21f979884dd90fef61898d">More...</a><br /></td></tr>
+<tr class="separator:a34862c7c1d21f979884dd90fef61898d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a998dfccdc5d284d068b0fb821a2f8b9d"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a998dfccdc5d284d068b0fb821a2f8b9d">registerInAppPurchase</a> (<a class="el" href="classcom_1_1fusepowered_1_1util_1_1_verified_purchase.html">VerifiedPurchase</a> purchase, double price, String currency)</td></tr>
 <tr class="memdesc:a998dfccdc5d284d068b0fb821a2f8b9d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Records in-app purchases in the Fuse system when the price and currency are known.  <a href="#a998dfccdc5d284d068b0fb821a2f8b9d">More...</a><br /></td></tr>
 <tr class="separator:a998dfccdc5d284d068b0fb821a2f8b9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1583,6 +1586,69 @@ static boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" 
 
 </div>
 </div>
+<a class="anchor" id="a34862c7c1d21f979884dd90fef61898d"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void com.fusepowered.FuseSDK.setupPushNotifications </td>
+          <td>(</td>
+          <td class="paramtype">Intent&#160;</td>
+          <td class="paramname"><em>intent</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>smallIconId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>largeIconId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">String...&#160;</td>
+          <td class="paramname"><em>GCMProjectNumbers</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Set up the game to receive push notifications from multiple senders. </p>
+<p>Only use this method if you need to send messages manually to the app that will not be sent by or handled by the Fuse system. You may pass multiple GCM project ids. Fuse will only handle messages sent by the first project id which should be exclusively used in the Fuse dashboard.</p>
+<p>Any messages received from the other project ids will be ignored by Fuse and must be handled manually.</p>
+<p>When the token has been registered, it will be provided to you through the FuseSDKListener.didRecieveGCMRegistrationToken(String) method *</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">intent</td><td>The intent that will be started when a notification is opened </td></tr>
+    <tr><td class="paramname">smallIconId</td><td>a resource id for a small version of the icon used in the notification </td></tr>
+    <tr><td class="paramname">largeIconId</td><td>a resource id for a large version of the icon used in the notification </td></tr>
+    <tr><td class="paramname">GCMProjectNumbers</td><td>a list of GCM projects that can send messages to the app (The first in the list is the one that fuse will respond to)</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a4f383225fe8000be184ad3604c3e7d71" title="Set up the game to receive push notifications. ">FuseSDK::setupPushNotifications</a>(String, android.content.Intent, int, int) </dd>
+<dd>
+com.fusepowered.FuseSDKListener::didRecieveGCMRegistrationToken(String) </dd></dl>
+
+</div>
+</div>
 <a class="anchor" id="a83a618950dfac1491806967fc5d3e2b9"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1948,7 +2014,7 @@ FuseSDKListener::friendsListError(com.fusepowered.util.FuseFriendsListError) </d
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><b>com</b></li><li class="navelem"><b>fusepowered</b></li><li class="navelem"><a class="el" href="classcom_1_1fusepowered_1_1_fuse_s_d_k.html">FuseSDK</a></li>
-    <li class="footer">Generated on Tue Mar 17 2015 16:48:20 for FuseSDK (Android) by
+    <li class="footer">Generated on Fri Mar 20 2015 16:25:07 for FuseSDK (Android) by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

@@ -41,6 +41,7 @@ var classcom_1_1fusepowered_1_1_fuse_s_d_k =
     [ "resumeSession", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab4d13edc4d92a94fe5f09de89ba02724", null ],
     [ "setListener", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a14707991fec84c0c16656c8eaf85b033", null ],
     [ "setupPushNotifications", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a4f383225fe8000be184ad3604c3e7d71", null ],
+    [ "setupPushNotifications", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a34862c7c1d21f979884dd90fef61898d", null ],
     [ "showAdForZoneID", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a83a618950dfac1491806967fc5d3e2b9", null ],
     [ "startSession", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a767d2253b67394f50462ed4b64821444", null ],
     [ "twitterLogin", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ace7d184d241c889f4cea1742d9969839", null ],

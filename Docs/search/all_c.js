@@ -1,15 +1,11 @@
 var searchData=
 [
-  ['registerage',['registerAge',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab324914fa0941a7125807ecc56e65bd8',1,'com::fusepowered::FuseSDK']]],
-  ['registerbirthday',['registerBirthday',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a095ac9afaf5123d82a242364c2acfa8e',1,'com::fusepowered::FuseSDK']]],
-  ['registercurrency',['registerCurrency',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#acc325d6c7a65926e3d5566828aede9ad',1,'com::fusepowered::FuseSDK']]],
-  ['registergender',['registerGender',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a1d65a692c9702682f33033cf392b8196',1,'com::fusepowered::FuseSDK']]],
-  ['registerinapppurchase',['registerInAppPurchase',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a998dfccdc5d284d068b0fb821a2f8b9d',1,'com.fusepowered.FuseSDK.registerInAppPurchase(VerifiedPurchase purchase, double price, String currency)'],['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a62feedf13f55770982d99f587b05c867',1,'com.fusepowered.FuseSDK.registerInAppPurchase(VerifiedPurchase purchase)']]],
-  ['registerlevel',['registerLevel',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a0405e98dcb08167037f7cf1e2f85d34c',1,'com::fusepowered::FuseSDK']]],
-  ['removefriend',['removeFriend',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a321271813cb49481fccc6e4b221c7a65',1,'com::fusepowered::FuseSDK']]],
-  ['removelistener',['removeListener',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#abc286a1b908d4ddeb4faa960306ca197',1,'com::fusepowered::FuseSDK']]],
-  ['request_5ffailed',['REQUEST_FAILED',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a70c30f1cb66daacd46a8347e96bc2ac9',1,'com::fusepowered::FuseError']]],
-  ['resumesession',['resumeSession',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#ab4d13edc4d92a94fe5f09de89ba02724',1,'com::fusepowered::FuseSDK']]],
-  ['rewardedadcompletewithobject',['rewardedAdCompleteWithObject',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a237c9e78759c45147a03c34c7bd9a0b3',1,'com::fusepowered::FuseSDKListener']]],
-  ['rewardedinfo',['RewardedInfo',['../classcom_1_1fusepowered_1_1_rewarded_info.html',1,'com::fusepowered']]]
+  ['server_5ferror',['SERVER_ERROR',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a34b308ad8d56b343e32caaf1ed2a236b',1,'com::fusepowered::FuseError']]],
+  ['session_5ffailure',['SESSION_FAILURE',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a279f6484b3e7445929669d99286b2283',1,'com::fusepowered::FuseError']]],
+  ['sessionloginerror',['sessionLoginError',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#ac54e6434c1330649ca71ae3a4f882a32',1,'com::fusepowered::FuseSDKListener']]],
+  ['sessionstartreceived',['sessionStartReceived',['../interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#ae207b28608f4f7e2f5841da328a6bc8a',1,'com::fusepowered::FuseSDKListener']]],
+  ['setlistener',['setListener',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a14707991fec84c0c16656c8eaf85b033',1,'com::fusepowered::FuseSDK']]],
+  ['setuppushnotifications',['setupPushNotifications',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a4f383225fe8000be184ad3604c3e7d71',1,'com.fusepowered.FuseSDK.setupPushNotifications(String GCMProjectNumber, Intent intent, int smallIconId, int largeIconId)'],['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a34862c7c1d21f979884dd90fef61898d',1,'com.fusepowered.FuseSDK.setupPushNotifications(Intent intent, int smallIconId, int largeIconId, String...GCMProjectNumbers)']]],
+  ['showadforzoneid',['showAdForZoneID',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a83a618950dfac1491806967fc5d3e2b9',1,'com::fusepowered::FuseSDK']]],
+  ['startsession',['startSession',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a767d2253b67394f50462ed4b64821444',1,'com::fusepowered::FuseSDK']]]
 ];

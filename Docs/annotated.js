@@ -13,7 +13,6 @@ var annotated =
         [ "FuseSDK", "classcom_1_1fusepowered_1_1_fuse_s_d_k.html", "classcom_1_1fusepowered_1_1_fuse_s_d_k" ],
         [ "FuseSDKConstants", "classcom_1_1fusepowered_1_1_fuse_s_d_k_constants.html", "classcom_1_1fusepowered_1_1_fuse_s_d_k_constants" ],
         [ "FuseSDKListener", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener" ],
-        [ "OfferInfo", "classcom_1_1fusepowered_1_1_offer_info.html", null ],
         [ "RewardedInfo", "classcom_1_1fusepowered_1_1_rewarded_info.html", null ]
       ] ]
     ] ]
