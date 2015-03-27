@@ -24,10 +24,9 @@ Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an acc
 
 ## Release Notes
 
-### 1.38.4
+### 1.38.5
 March 25th, 2015
 * Bug fixes
-
 
 ### 1.38.4
 March 25th, 2015
