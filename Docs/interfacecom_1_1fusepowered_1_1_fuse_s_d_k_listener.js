@@ -2,6 +2,7 @@ var interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener =
 [
     [ "accountLoginComplete", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a653d8c892dc9f81a81cfe27601b2f206", null ],
     [ "adAvailabilityResponse", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#ac81dac3e27a9a0526699131f40f40fcb", null ],
+    [ "adFailedToDisplay", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a98bafe4c9919e916d413ef07a8376489", null ],
     [ "adWillClose", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a26c30d73dcde817f9855928e33a4a120", null ],
     [ "gameConfigurationReceived", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#aeeac8636624da8b7ef3aebbe30be6b73", null ],
     [ "IAPOfferAcceptedWithObject", "interfacecom_1_1fusepowered_1_1_fuse_s_d_k_listener.html#a22ac8fc105f0422fc52e5d479e728ae3", null ],
