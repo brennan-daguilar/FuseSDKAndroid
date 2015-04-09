@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 1.38.5
+Version: 2.0.2
 
-Released: March 27th, 2015
+Released: April 8th, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -15,22 +15,21 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 
 ## References
 
-* [Integration Instructions](http://wiki.fusepowered.com/index.php/Android)
+* [Integration Instructions](https://wiki.fusepowered.com/index.php?title=Android)
 * [Inline Code Reference](http://fusepowered.github.io/FuseSDKAndroid/)
-* [Fuse SDK Class Reference](http://fusepowered.github.io/FuseSDKAndroid/Docs/classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html)
+* [Fuse SDK Class Reference](https://wiki.fusepowered.com/docs/Android/classcom_1_1fusepowered_1_1_fuse_s_d_k.html)
 
 ## Need an Account?
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
 
-### 1.38.5
-March 25th, 2015
-* Bug fixes
-
-### 1.38.4
-March 25th, 2015
-* Bug fixes
+### 2.0.2
+April 8th, 2015
+* IAP and Virtual Good offers
+* Rewarded video enhancements
+* Interface updates
+* FuseAPI deprecated - please use FuseSDK
 
 ### 1.38.0
 February 6th, 2015
