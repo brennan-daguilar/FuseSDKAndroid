@@ -1,11 +1,7 @@
 var searchData=
 [
-  ['facebooklogin',['facebookLogin',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a56b7adf2d937fc94e95949a0002b5803',1,'com.fusepowered.fuseapi.FuseAPI.facebookLogin(final String facebookId, final String name, FuseCallback fuseCallback)'],['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#ab5d6e67c3e545860ea980ccb8a3616fd',1,'com.fusepowered.fuseapi.FuseAPI.facebookLogin(final String facebookId, final String name, final String accessToken, FuseCallback fuseCallback)']]],
-  ['friendspushnotification',['friendsPushNotification',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#aef7a3ea96068e589e127babf1b4c869b',1,'com::fusepowered::fuseapi::FuseAPI']]],
-  ['fuseadcallback',['FuseAdCallback',['../classcom_1_1fusepowered_1_1util_1_1_fuse_ad_callback.html',1,'com::fusepowered::util']]],
-  ['fuseapi',['FuseAPI',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html',1,'com::fusepowered::fuseapi']]],
-  ['fuseapibrowser',['FuseApiBrowser',['../classcom_1_1fusepowered_1_1activities_1_1_fuse_api_browser.html',1,'com::fusepowered::activities']]],
-  ['fusecallback',['FuseCallback',['../classcom_1_1fusepowered_1_1util_1_1_fuse_callback.html',1,'com::fusepowered::util']]],
-  ['fusegamedatacallback',['FuseGameDataCallback',['../classcom_1_1fusepowered_1_1util_1_1_fuse_game_data_callback.html',1,'com::fusepowered::util']]],
-  ['fuselogin',['fuseLogin',['../classcom_1_1fusepowered_1_1fuseapi_1_1_fuse_a_p_i.html#a5ab3bc8ff182b1d314242b7952319d57',1,'com::fusepowered::fuseapi::FuseAPI']]]
+  ['emaillogin',['emailLogin',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a06dfdd725e366cc15b38681f3398353b',1,'com::fusepowered::FuseSDK']]],
+  ['enabledata',['enableData',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#affdde1b4dc29209d9398af5e93c649e7',1,'com::fusepowered::FuseSDK']]],
+  ['endsession',['endSession',['../classcom_1_1fusepowered_1_1_fuse_s_d_k.html#a39d623226095c8de46d4f55d4448c950',1,'com::fusepowered::FuseSDK']]],
+  ['errorcode',['errorCode',['../enumcom_1_1fusepowered_1_1_fuse_error.html#a29961cfd4fb5d840ec8cb4b639529884',1,'com::fusepowered::FuseError']]]
 ];
