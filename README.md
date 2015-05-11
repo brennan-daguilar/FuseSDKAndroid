@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.0.2
+Version: 2.0.5
 
-Released: April 8th, 2015
+Released: May 11, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,10 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.0.5
+May 11, 2015
+* Bug Fixes
 
 ### 2.0.2
 April 8th, 2015
