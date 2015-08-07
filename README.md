@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.1.3
+Version: 2.2.0
 
-Released: June 11, 2015
+Released: August 7th, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,18 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.2.0
+August 7th, 2015
+* New ad providers added
+* Added VAST support
+* Added rewarded video authentication 
+  * Added method FuseSDK.setRewardedVideoUserID(String userID) to identify the user
+  * The RewardedInfo object now has rewardItemId
+* Added startTime and endTime to the IAPOfferInfo object
+* Added currencyID, virtualGoodID, startTime and endTime to the VGOfferInfo object
+* Fix for game data get/set
+* Bug fixes
 
 ### 2.1.3
 June 11, 2015
