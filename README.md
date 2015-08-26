@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.2.0
+Version: 2.2.2
 
-Released: August 7th, 2015
+Released: August 26th, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,11 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.2.2
+August 26th, 2015
+* Ad provider updates
+* Added an adDidShow callback
 
 ### 2.2.0
 August 7th, 2015
