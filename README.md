@@ -25,6 +25,7 @@ Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an acc
 ## Release Notes
 
 ### 2.2.2
+August 26th, 2015
 * Ad provider updates
 * Added an adDidShow callback
 
