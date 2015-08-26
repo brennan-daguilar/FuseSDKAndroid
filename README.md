@@ -2,11 +2,12 @@
 
 ## Current Version
 
-Version: 2.2.0
+Version: 2.2.2
 
-Released: August 7th, 2015
+Released: August 26th, 2015
 
 ## To Download
+The Fuse "Core" SDK version is a light-weight alternative to the standard Fuse SDK, and includes a pre-bundled version of AdRally optimized for serving video ads (both rewarded and non-rewarded). This SDK is useful for developers who want to keep the final binary size of their apps as small as possible, and also helps developers who are hitting DEX count limits for their Android apps.
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
 
 ## Getting Started
@@ -23,6 +24,11 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.2.2
+August 26th, 2015
+* Ad provider updates
+* Added an adDidShow callback
 
 ### 2.2.0
 August 7th, 2015
