@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.2.2
+Version: 2.3.0
 
-Released: August 26th, 2015
+Released: September 30, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,14 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.3.0
+September 30th, 2015
+* Custom Offer meta-data
+* Custom Call to Action on campaign videos
+* Ad provider updates
+* Bug fixes
+* Android M fixes
 
 ### 2.2.2
 August 26th, 2015
