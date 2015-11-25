@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.4.0
+Version: 2.4.2
 
-Released: November 12, 2015
+Released: November 25, 2015
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,10 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.4.2
+November 25, 2015
+* Ad Provider optimizations
 
 ### 2.4.0
 November 12, 2015
@@ -79,31 +83,6 @@ April 8th, 2015
 * Rewarded video enhancements
 * Interface updates
 * FuseAPI deprecated - please use FuseSDK
-
-### 1.38.0
-February 6th, 2015
-* Ad provider updates and fixes
-* Bug fixes
-
-### 1.37.5
-January 13th, 2015
-* Ad provider fixes
-* New manifest file requirements to properly support ad providers
-
-### 1.37.4
-December 23rd, 2014
-* Bug fixes
-* Ad provider updates
-
-### 1.37.1
-November 19th, 2014
-* Minor bug fixes for rotation, ad display
-
-### 1.37.0
-November 10th, 2014
-* 3rd party plugin architecture for mediated networks
-* Additional V4VC callbacks
-* Bug fixes
 
 ## Legal Requirements
 By downloading the Fuse Powered SDK, you are granted a limited, non-commercial license to use and review the SDK solely for evaluation purposes.  If you wish to integrate the SDK into any commercial applications, you must register an account with [Fuse Powered](https://www.fusepowered.com) and accept the terms and conditions on the Fuse Powered website.
