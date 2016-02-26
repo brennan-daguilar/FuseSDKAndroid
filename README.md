@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.4.2
+Version: 2.5.0
 
-Released: November 25, 2015
+Released: February 26, 2016
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,12 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.5.0
+February 26, 2016
+* Rich media pre and post rolls for cross promotional videos
+* Price localization for offers
+* Ad provider updates
 
 ### 2.4.2
 November 25, 2015
