@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.5.1
+Version: 2.5.3
 
-Released: March 9th, 2016
+Released: March 23th, 2016
 
 ## To Download
 The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
@@ -23,6 +23,10 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.5.3
+March 23, 2016
+* Remove in app billing library from jar to avoid conflicts
 
 ### 2.5.1
 March 9, 2016
