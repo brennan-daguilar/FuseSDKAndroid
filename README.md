@@ -2,12 +2,9 @@
 
 ## Current Version
 
-Version: 2.5.5
+Version: 2.6.1
 
-Released: April 1st, 2016
-
-## To Download
-The easiest way to obtain the Fuse SDK is to click the "Download ZIP" button located in the right-hand navigation pane of the Github repository page.
+Released: July 7, 2016
 
 ## Getting Started
 
@@ -23,6 +20,18 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.6.1
+July 7, 2016
+* Min API version increased to 15
+* Ad provider updates
+* Now distributed as AARs
+* Deprecated FuseAPI class removed
+* Activities and sessions are now tracked automatically
+* FuseSDK.startSession() deprecated (to be replaced by FuseSDK.init())
+* FuseSDK.pauseSession(), FuseSDK.resumeSession(), and FuseSDK.endSession() deprecated 
+* GameDataListener now separated from FuseSDKListener, call FuseSDK.setGameDataListener to register
+* FuseSDKListener.adAvailabilityResponse() signature changed.  Now specifies which AdZone the response is for
 
 ### 2.5.5
 April 1, 2016
