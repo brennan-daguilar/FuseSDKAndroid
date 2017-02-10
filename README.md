@@ -2,9 +2,9 @@
 
 ## Current Version
 
-Version: 2.6.1
+Version: 2.7.0
 
-Released: July 7, 2016
+Released: February 10, 2017
 
 ## Getting Started
 
@@ -20,6 +20,11 @@ Please review the [integration instructions](https://wiki.fusepowered.com/index.
 Please visit [http://www.fusepowered.com](http://www.fusepowered.com) for an account to get started!
 
 ## Release Notes
+
+### 2.7.0
+February 10, 2017
+* Ad network updates
+* Optimize cache usage for S2S videos
 
 ### 2.6.1
 July 7, 2016
